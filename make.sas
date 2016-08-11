@@ -1,7 +1,7 @@
  /*----------------------------------------------------------------------------
 make.sas
 
-Description
+Description and information
     Runs all DHICommon SAS programs necessary to create the SAS catalogs and
 	datasets in the shared resource directory. Also copies the folder with all SAS
 	macro programs to the same directory.
